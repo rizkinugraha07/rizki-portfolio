@@ -122,6 +122,25 @@ function Experience() {
 
             </div>
 
+
+            {/* =================================================
+                APP PHOTO
+            ================================================= */}
+
+            <div className="mt-12">
+
+              <div className="mx-auto w-full max-w-2xl overflow-hidden rounded-[1.5rem] bg-white/[0.04]">
+
+                <img
+                  src="/images/APP 1.jpeg"
+                  alt="PT APP Purinusa Eka Persada internship"
+                  className="aspect-square w-full object-cover transition duration-700 hover:scale-105"
+                />
+
+              </div>
+
+            </div>
+
           </article>
 
 

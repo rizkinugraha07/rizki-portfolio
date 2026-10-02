@@ -68,15 +68,9 @@ function Organization() {
 
 
             {/* =================================
-                DIVIDER
-            ================================= */}
-            <div className="my-10 h-px w-full bg-black/10" />
-
-
-            {/* =================================
                 DESCRIPTION
             ================================= */}
-            <div className="max-w-4xl">
+            <div className="mt-10 max-w-4xl">
 
               {/* PARAGRAPH 1 */}
               <p className="text-justify text-[15px] font-light leading-[1.9] tracking-[0.01em] text-black/75 sm:text-base md:text-lg">
